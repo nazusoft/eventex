@@ -1,0 +1,5 @@
+.env
+.eventex
+*.sqlite3
+*pyc
+__pycahce__
